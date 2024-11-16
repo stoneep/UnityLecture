@@ -10,7 +10,7 @@ public class FirstScripts : MonoBehaviour
     // public float pi;
     // public string myName = "홍길동";
     public bool isGameover = false;
-
+	test
     private int hp = 100;
     
     void Start()
